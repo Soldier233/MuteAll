@@ -1,0 +1,7 @@
+name: MuteAll
+main: net.mcmhsj.MuteAll.main
+version: 1.0
+commands:
+  muteall:
+description: no need to explain
+usage: /muteall
